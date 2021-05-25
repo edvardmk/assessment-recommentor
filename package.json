@@ -1,0 +1,22 @@
+{
+  "name": "recommentor",
+  "version": "1.0.0",
+  "description": "Recommends a book for a given category",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edvardmk/assessment-recommentor.git"
+  },
+  "author": "Eduard Munkhart",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edvardmk/assessment-recommentor/issues"
+  },
+  "homepage": "https://github.com/edvardmk/assessment-recommentor#readme",
+  "dependencies": {
+    "puppeteer": "^9.1.1"
+  }
+}
